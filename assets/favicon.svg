@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Almendros Coffee Co. — BLENDED ONES">
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="#F2DEC1" stroke="#2B1810" stroke-width="4"/>
+  <rect x="7" y="7" width="50" height="50" rx="8" fill="none" stroke="#B5600C" stroke-width="1.2" opacity="0.65"/>
+  <!-- Vintage Playing Card Club Suit in Espresso Coffee Brown -->
+  <g fill="#2B1810">
+    <circle cx="32" cy="21.5" r="8.5"/>
+    <circle cx="22.5" cy="33.5" r="8.5"/>
+    <circle cx="41.5" cy="33.5" r="8.5"/>
+    <path d="M29.5 34 L34.5 34 L37.5 49 L26.5 49 Z"/>
+  </g>
+</svg>
