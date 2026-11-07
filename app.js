@@ -74,6 +74,7 @@
       origenProductor: orig.productor,
       origenAltitud: orig.altitud,
       origenCosecha: orig.cosecha,
+      selloTrazabilidad: orig.selloTrazabilidad,
 
       tituloInvitacion: inv.titulo,
       descripcionInvitacion: inv.descripcion,

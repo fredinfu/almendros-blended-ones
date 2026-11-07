@@ -76,28 +76,28 @@ window.BLENDED_ONES_CONFIG = {
       proceso: "Fermentación natural anaeróbica",
       duracionFermentacion: "120 horas",
       detalleProceso:
-        "Cerezas enteras fermentadas en ambiente sin oxígeno durante 120 horas antes del secado natural, desarrollando una jugosidad frutal definida que complementa la sutileza de la mezcla."
+        "Cerezas enteras fermentadas en ambiente sin oxígeno durante 120 horas antes del secado natural. En la mezcla, el Catimor juega un papel clave aportando sabores intensos en sus notas frutales, que suman carácter y jugosidad frente a la sutileza del Geisha."
     }
   },
 
   // 6. PERFIL SENSORIAL DE TAZA (SECCIÓN: PERFIL DE TAZA)
   perfilDeTaza: {
     descripcionPrincipal:
-      "Una combinación que une el dulzor melado y las fragancias delicadas de Geisha Honey con la jugosidad frutal del Catimor Natural. El resultado es una taza aromática, con una acidez agradable, clara y ligera al paladar.",
+      "Una combinación que une el dulzor melado y las fragancias delicadas de Geisha Honey con la intensidad y jugosidad de las notas frutales del Catimor Natural. El resultado es una taza aromática, expresiva y con una acidez agradable, clara y ligera al paladar.",
     notaEquilibrio:
       "Tostado en punto medio para respetar la limpidez de ambos procesos y ofrecer una experiencia equilibrada, amable y fácil de disfrutar todos los días.",
     atributos: [
       {
         titulo: "Dulzor melado",
-        detalle: "Suavidad envolvente aportada por el beneficio Honey tradicional."
+        detalle: "Suavidad envolvente aportada por el proceso Honey tradicional."
       },
       {
         titulo: "Carácter aromático",
         detalle: "Fragancias delicadas y limpias propias de la variedad Geisha."
       },
       {
-        titulo: "Jugosidad frutal",
-        detalle: "Expresión viva nacida del proceso natural anaeróbico de 120 horas."
+        titulo: "Notas frutales intensas",
+        detalle: "El Catimor natural anaeróbico de 120 horas juega un papel decisivo con sabores intensos y jugosos en sus notas frutales."
       },
       {
         titulo: "Acidez clara y ligera",
@@ -114,6 +114,7 @@ window.BLENDED_ONES_CONFIG = {
     altitud: "1,250–1,300 msnm",
     cosecha: "2026",
     declaracionOrigen: "Ambas variedades provienen de Finca Los Almendros.",
+    selloTrazabilidad: "Producido en San Luis, transformado en Tegucigalpa",
     historiaFinca:
       "En las montañas de San Luis, Comayagua, Finca Los Almendros cultiva tanto el Geisha como el Catimor que dan vida a BLENDED ONES. Bajo el cuidado del productor Fernando Padilla, entre los 1,250 y 1,300 metros sobre el nivel del mar, la cosecha 2026 reúne trabajo de campo, selección cuidadosa y trazabilidad de principio a fin en una misma tierra."
   },
